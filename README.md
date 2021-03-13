@@ -21,7 +21,17 @@ LCD power directly from charger ( it uses 5V )
 
 and basically thats it
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+#final effect
+
+
+![alt text](https://raw.githubusercontent.com/bunny1985/RpiPicoThermometerLcd/main/resources/box.jpg)
+
+#Prototype 
+![alt text](https://raw.githubusercontent.com/bunny1985/RpiPicoThermometerLcd/main/resources/prototype.jpg)
+
+#Interior
+
+![alt text](https://raw.githubusercontent.com/bunny1985/RpiPicoThermometerLcd/main/resources/interior.jpg)
 
 
 
